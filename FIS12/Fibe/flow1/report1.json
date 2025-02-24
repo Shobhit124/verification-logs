@@ -12,7 +12,7 @@
     },
     "action": "init",
     "version": "2.0.0",
-    "bap_id": "pramaan.ondc.org/beta/preprod/mock/buyer",
+    "bap_id": "pramaan.ondc.org/beta/preprod/mock/buye",
     "bap_uri": "https://pramaan.ondc.org/beta/preprod/mock/buyer",
     "bpp_id": "ondc-preprod.earlysalary.com",
     "bpp_uri": "https://ondc-preprod.earlysalary.com/ondc",
