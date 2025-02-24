@@ -59,7 +59,7 @@
               "list": [
                 {
                   "descriptor": {
-                    "code": "BUYER_FINDER_FEES_TYPE"
+                    "code": "BUYER_FINDER_FEES_TYP"
                   },
                   "value": "percent-annualized"
                 },
