@@ -53,7 +53,7 @@
           "tags": [
             {
               "descriptor": {
-                "code": "BUYER_FINDER_FEES"
+                "code": "BUYER_FINDER_FEE"
               },
               "display": false,
               "list": [
