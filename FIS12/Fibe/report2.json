@@ -97,7 +97,7 @@
                 },
                 {
                   "descriptor": {
-                    "code": "SETTLEMENT_AMOUN"
+                    "code": "SETTLEMENT_AMOUNT"
                   },
                   "value": "324.27"
                 },
