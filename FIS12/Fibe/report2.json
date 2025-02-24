@@ -103,7 +103,7 @@
                 },
                 {
                   "descriptor": {
-                    "code": "SETTLEMENT_TYPE"
+                    "code": "SETTLEMENT_TYP"
                   },
                   "value": "neft"
                 }
